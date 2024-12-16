@@ -1,6 +1,3 @@
-Here’s a description for your repository based on a quick analysis:
-
----
 
 # iTask  
 **iTask** is a feature-rich task management web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It provides users with an intuitive interface to manage their daily tasks effectively and boost productivity.
